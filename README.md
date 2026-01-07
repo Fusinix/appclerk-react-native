@@ -203,4 +203,7 @@ Use `EXPO_PUBLIC_` prefix for environment variables in Expo projects.
 MIT
 
 Official documentation: https://appclerk.dev/docs/sdk/react-native
+
 Appclerk Core: https://appclerk.dev/docs/sdk/core
+
+Appclerk React: https://appclerk.dev/docs/sdk/react
